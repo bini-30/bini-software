@@ -8,7 +8,7 @@
 **📧 Email:** software.bini30@gmail.com
 
 <p align="left">
-  <a href="https://t.me/x_bini">
+  <a href="https://t.me/bini_gr">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/biniyam-girma-swe">
